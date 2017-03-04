@@ -1,0 +1,25 @@
+{
+  "author": "Ersun Warncke <ersun.warncke@gmail.com>",
+  "dependencies": {
+
+  },
+  "description": "Immutable app http error",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "3.2.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "engines": {
+    "node": ">=7.6.0"
+  },
+  "license": "MIT",
+  "main": "lib/immutable-app-http-error.js",
+  "name": "immutable-app-http-error",
+  "repository": "warncke/immutable-app-http-error",
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "0.1.0"
+}
