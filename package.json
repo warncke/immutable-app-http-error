@@ -1,12 +1,10 @@
 {
   "author": "Ersun Warncke <ersun.warncke@gmail.com>",
-  "dependencies": {
-
-  },
+  "dependencies": {},
   "description": "Immutable app http error",
   "devDependencies": {
     "chai": "3.5.0",
-    "mocha": "3.2.0"
+    "mocha": "3.3.0"
   },
   "directories": {
     "test": "test"
@@ -21,5 +19,5 @@
   "scripts": {
     "test": "mocha"
   },
-  "version": "0.1.1"
+  "version": "0.1.2"
 }
