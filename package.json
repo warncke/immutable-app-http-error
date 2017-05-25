@@ -4,7 +4,7 @@
   "description": "Immutable app http error",
   "devDependencies": {
     "chai": "3.5.0",
-    "mocha": "3.4.1"
+    "mocha": "3.4.2"
   },
   "directories": {
     "test": "test"
@@ -19,5 +19,5 @@
   "scripts": {
     "test": "mocha"
   },
-  "version": "0.1.3"
+  "version": "0.1.4"
 }
